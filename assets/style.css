@@ -1,0 +1,15 @@
+.wrapper {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+p {
+    display: inline-block;
+}
+.todo-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+    margin-top: 200px;
+}
